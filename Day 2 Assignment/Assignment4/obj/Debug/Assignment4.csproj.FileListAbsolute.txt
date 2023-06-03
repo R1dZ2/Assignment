@@ -1,7 +1,0 @@
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\bin\Debug\Assignment4.exe.config
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\bin\Debug\Assignment4.exe
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\bin\Debug\Assignment4.pdb
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\obj\Debug\Assignment4.exe
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment4\obj\Debug\Assignment4.pdb

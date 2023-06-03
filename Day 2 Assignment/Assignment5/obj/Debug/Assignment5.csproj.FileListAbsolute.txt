@@ -1,8 +1,0 @@
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\bin\Debug\Assignment5.exe.config
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\bin\Debug\Assignment5.exe
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\bin\Debug\Assignment5.pdb
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\obj\Debug\Assignment5.csproj.SuggestedBindingRedirects.cache
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\obj\Debug\Assignment5.exe
-C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 2 Assignment\Assignment5\obj\Debug\Assignment5.pdb
