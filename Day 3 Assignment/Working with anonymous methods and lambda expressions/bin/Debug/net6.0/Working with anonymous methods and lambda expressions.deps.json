@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Working with anonymous methods and lambda expressions/1.0.0": {
+        "runtime": {
+          "Working with anonymous methods and lambda expressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Working with anonymous methods and lambda expressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

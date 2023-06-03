@@ -1,0 +1,15 @@
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\bin\Debug\net6.0\Assignment 7 - Extension Methods.exe
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\bin\Debug\net6.0\Assignment 7 - Extension Methods.deps.json
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\bin\Debug\net6.0\Assignment 7 - Extension Methods.runtimeconfig.json
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\bin\Debug\net6.0\Assignment 7 - Extension Methods.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\bin\Debug\net6.0\Assignment 7 - Extension Methods.pdb
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.csproj.AssemblyReference.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.AssemblyInfoInputs.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.AssemblyInfo.cs
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\refint\Assignment 7 - Extension Methods.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.pdb
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\Assignment 7 - Extension Methods.genruntimeconfig.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Assignment 7 - Extension Methods\obj\Debug\net6.0\ref\Assignment 7 - Extension Methods.dll
