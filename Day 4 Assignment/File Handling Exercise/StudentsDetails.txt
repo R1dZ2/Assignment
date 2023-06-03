@@ -1,0 +1,14 @@
+Student ID: 1
+Student Name: Ridhwaan
+Student Marks:
+23 34 34 34 34
+
+
+Student ID: 2
+Student Name: Yenefer
+Student Marks:
+34 34 34 34 34
+
+
+
+1[System.String]
