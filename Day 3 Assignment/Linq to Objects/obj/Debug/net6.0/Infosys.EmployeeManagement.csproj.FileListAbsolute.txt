@@ -1,0 +1,15 @@
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\bin\Debug\net6.0\Infosys.EmployeeManagement.exe
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\bin\Debug\net6.0\Infosys.EmployeeManagement.deps.json
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\bin\Debug\net6.0\Infosys.EmployeeManagement.runtimeconfig.json
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\bin\Debug\net6.0\Infosys.EmployeeManagement.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\bin\Debug\net6.0\Infosys.EmployeeManagement.pdb
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.AssemblyInfo.cs
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\refint\Infosys.EmployeeManagement.dll
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.pdb
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\Infosys.EmployeeManagement.genruntimeconfig.cache
+C:\Users\ridhwaan.noorooya\source\repos\c# Training\Advanced C#\Day 3 Assignment\Infosys.EmployeeManagement\obj\Debug\net6.0\ref\Infosys.EmployeeManagement.dll
